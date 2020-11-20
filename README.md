@@ -7,4 +7,5 @@
 - Juniper Networks: JNCIAx3 
 - Alibaba Cloud Certified Associate Cloud Computing
 - Microsoft Certified: Azure Fundamentals
+- page2me@TryHackMe: 
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/page2me.png "page2me@TryHackMe")
