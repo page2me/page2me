@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 - วศ.บ. (วิศวกรรมคอมพิวเตอร์) สถาบันเทคโนโลยีราชมงคล, วศ.ม. (วิศวกรรมไฟฟ้า-วิศวกรรมอิเล็กทรอนิกส์และโทรคมนาคม) มหาวิทยาลัยเทคโนโลยีราชมงคลธัญบุรี
 - TCP/IP Networks, Computer Network Laboratory, Special Problems in Computer Network, Computer Engineering Project
 - Office: 02-549-3466, Fax: 02-549-3462, Mobile: 084-098-8030, E-mail: weerachai.y(AT)en.rmutt.ac.th, Website: http://www.en.rmutt.ac.th/weerachai.y
-- Cisco Instructor at Cisco Networking Academy
-- Huawei: HCAI HCIP-R&S HCIAx8 
-- Juniper Networks: JNCIAx4 
-- Alibaba Cloud Certified Associate Cloud Computing
+- Cisco Certified Academy Instructor (CCAI)
+- Huawei Certified Academy Instructor (HCAI)
+- Huawei: HCIP-R&S HCIAx8
+- Juniper Networks: JNCIAx4
+- Alibaba Cloud Certified Associate (ACA) Cloud Computing
+- Alibaba Cloud Certified Associate (ACA) Cloud Security
 - Microsoft Certified: Azure Fundamentals
