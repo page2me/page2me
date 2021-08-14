@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Cisco Certified Academy Instructor (CCAI)
+  - CyberOps Associate
+  - DevNet Associate
+  - CCNP: Core Networking 
+  - IT Essentials
 - Huawei Certified Academy Instructor (HCAI)
 - Huawei: HCIP-R&S HCIAx10 HCPA
 - Juniper Networks: JNCIAx4
