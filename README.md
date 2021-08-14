@@ -31,7 +31,15 @@ Here are some ideas to get you started:
   - DevNet Associate
   - CCNP: Core Networking 
   - IT Essentials
+  - CCNA: Introduction to Networks
+  - CCNA: Switching, Routing, and Wireless Essentials
+  - CCNA: Enterprise Networking, Security, and Automation
 - Huawei Certified Academy Instructor (HCAI)
+  - HCIA-Routing&Switching
+  - HCIA-Datacom
+  - HCIA-Cloud Service
+  - HCIP-Routing&Switching
+  - HCIA-5G
 - Huawei: HCIP-R&S HCIAx10 HCPA
 - Juniper Networks: JNCIAx4
 - Alibaba Cloud Certified Associate (ACA) Cloud Computing
